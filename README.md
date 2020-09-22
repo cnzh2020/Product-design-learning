@@ -13,7 +13,7 @@ version:1.0
 新浪微博：@掌柜智昊
 
 ## 目录
-### 序：在互相借鉴中逐步成长的产品经理
+### [序：产品的世界](https://github.com/cnzh2020/Product-design-learned-for-7days/blob/master/Preface.md)
 ### 第一章 产品经理岗位探索
 * 什么是产品经理
 * 产品经理的核心技能
