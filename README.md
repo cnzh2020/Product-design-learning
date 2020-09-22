@@ -14,7 +14,7 @@ version:1.0
 
 ## 目录
 ### [序：产品的世界](https://github.com/cnzh2020/Product-design-learned-for-7days/blob/master/Preface.md)
-### 第一章 产品经理岗位探索
+### 第一章 产品经理入门
 * 什么是产品经理
 * 产品经理的核心技能
 
