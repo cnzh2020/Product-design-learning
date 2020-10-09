@@ -197,7 +197,7 @@
 《人人都是产品经理》  
 简直就是产品的入坑书籍，我就是这本书走向了产品的不归路。
 
-![](https://github.com/cnzh2020/Product-design-learned-for-7days/blob/master/image/qishilu.jpg)
+![ ](https://github.com/cnzh2020/Product-design-learned-in-7days/blob/master/image/qishilu.png)  
 [《启示录：打造用户喜欢的产品》](http://product.dangdang.com/21064608.html#ddclick_reco_reco_relate)  
 eBay的前副总裁写的，看一下顶级产品经理的思考逻辑。  
 
