@@ -346,7 +346,7 @@
 
 那么业务流程图长什么样子呢，我这里弄张我原来画的老图来给大家看看。
 
-![image-20210202234957656](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20210202234957656.png)
+![image-20210202234957656](https://github.com/cnzh2020/Product-design-learning/raw/master/image/image-20210202234957656.png)
 
 > 来源地址：https://www.processon.com/view/link/5be016c1e4b01ac49662b609
 
